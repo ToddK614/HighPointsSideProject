@@ -28,7 +28,7 @@
                 <router-link class="nav-item active" v-bind:to="{ name: 'topfive' }">
                   <!--v-if="$store.state.token"-->
                   <i class="fas fa-mountain"></i>
-                    Top Five US High Points
+                    Top Five US High Points!
                 </router-link>
               </li>
             </ul>
